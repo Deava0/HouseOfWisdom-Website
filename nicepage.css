@@ -25214,12 +25214,15 @@ a.u-link.u-hover-palette-1-light-3:hover {
     color: #e9f2fa !important;
 }
 
+
+/*back to top*/
+
 .u-palette-1-base,
 .u-body.u-palette-1-base,
 .u-container-style.u-palette-1-base:before,
 .u-table-alt-palette-1-base tr:nth-child(even) {
-    color: #ffffff;
-    background-color: #478ac9;
+    color: #070303;
+    background-color: #fdffb6;
 }
 
 .u-button-style.u-palette-1-base,
