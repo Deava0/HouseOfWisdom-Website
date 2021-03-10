@@ -224,7 +224,8 @@
     }
     .u-section-1 .u-image-1 {
         width: 325px;
-        height: 325px;
+        height: 500;
+        /* book cover */
     }
     .u-section-1 .u-group-1 {
         min-height: 258px;
